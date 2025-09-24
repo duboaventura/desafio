@@ -4,8 +4,11 @@
   "description": "desafio do curso.dev para praticar o que vimos até o momento e +",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
+  
   "author": "",
   "license": "MIT",
   "dependencies": {
